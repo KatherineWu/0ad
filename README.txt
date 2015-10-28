@@ -45,3 +45,7 @@ Reporting problems
 
 Bugs should be reported on Trac. For information on reporting problems
 and finding logs, see http://trac.wildfiregames.com/wiki/ReportingErrors
+
+-----------
+Our Project
+-----------
