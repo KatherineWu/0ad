@@ -3,7 +3,7 @@ var baseConfig = {
 		"minAttackSize" : 20, // attackMoveToLocation
 		"maxAttackSize" : 60, // attackMoveToLocation
 		"enemyRatio" : 1.5, // attackMoveToLocation
-		"groupSize" : 10 // military
+		"groupSize" : 20 // military
 	},
 	
 	// defence
